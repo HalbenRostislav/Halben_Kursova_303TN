@@ -1,0 +1,90 @@
+/* Загальні стилі */
+.logo {
+  height: 75px;
+  width: auto;
+}
+.gallery-img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 3px solid #dee2e6;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+body {
+  font-size: 18px;
+  line-height: 1.6;
+  background-color: #f8f9fa;
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Стилі карток новин */
+.card {
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.card-text {
+  font-size: 1rem;
+}
+
+.btn {
+  border-radius: 30px;
+}
+
+/* Галерея */
+.gallery-img {
+  transition: transform 0.3s ease-in-out;
+  border-radius: 10px;
+  border: 3px solid #dee2e6;
+}
+
+.gallery-img:hover {
+  transform: scale(1.05);
+}
+
+/* Шапка */
+header.navbar {
+  background: linear-gradient(to right, #007bff, #6610f2);
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff !important;
+}
+
+/* Футер */
+footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 2rem 1rem;
+  text-align: center;
+  font-size: 1rem;
+}
+
+footer a {
+  color: #ffc107;
+  text-decoration: none;
+}
