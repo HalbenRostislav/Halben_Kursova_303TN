@@ -4,12 +4,12 @@ import { BrowserRouter } from "react-router-dom";
 import App from "./App";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./assets/styles/App.css";
-import './styles/custom.css';
+import "./styles/custom.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/Halben_Kursova_303TN">
       <App />
     </BrowserRouter>
   </React.StrictMode>

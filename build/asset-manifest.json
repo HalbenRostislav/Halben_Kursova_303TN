@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5c9ae7b.css",
+    "main.js": "/static/js/main.9b687a53.js",
+    "static/media/new-books.jpg": "/static/media/new-books.0d79b0134ec788932018.jpg",
+    "static/media/event.jpg": "/static/media/event.544f8b3aae7c66fa6bb8.jpg",
+    "static/media/e-catalog.jpg": "/static/media/e-catalog.306ffac586650e3f8a31.jpg",
+    "static/media/book-presentation.jpg": "/static/media/book-presentation.a5cf2e780c2de839ef3f.jpg",
+    "static/media/reading-room.jpg": "/static/media/reading-room.6bd80d4bdb270d94e2de.jpg",
+    "static/media/teachers.jpg": "/static/media/teachers.6d2a9e53ccf3ad8a2c1b.jpg",
+    "static/media/modern-resources.jpg": "/static/media/modern-resources.8975421b34fcb250a523.jpg",
+    "static/media/students-library.jpg": "/static/media/students-library.45115fa0cd72ed3261aa.jpg",
+    "index.html": "/index.html",
+    "main.d5c9ae7b.css.map": "/static/css/main.d5c9ae7b.css.map",
+    "main.9b687a53.js.map": "/static/js/main.9b687a53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5c9ae7b.css",
+    "static/js/main.9b687a53.js"
+  ]
+}
